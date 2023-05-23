@@ -1,0 +1,26 @@
+input[type = "password"] {
+    border-color: red ;
+    border-style: groove;
+}
+input[type = "email"] {
+    border-color: red ;
+    border-style: groove;
+}
+#name {
+    border-color: red ;
+    border-style: groove;
+}
+#password_verify{
+    border-color: blue ;
+    border-style: double;
+}
+#avatar {
+    border: dotted ;
+    border-bottom-style: double;
+    background-color: lightgray;
+}
+button[type = "button_register"] {
+    color: royalblue;
+    background-color: lightgray;
+    border-color: black;
+}
