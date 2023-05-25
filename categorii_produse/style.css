@@ -1,0 +1,12 @@
+h2 {
+    color:darkgreen;
+    border-style: dotted;
+    border-color: black;
+}
+img {
+    border-color: blueviolet;
+    border-style: groove;
+}
+p {
+    font-size: larger;
+}

@@ -1,0 +1,14 @@
+h1 {
+    color: darkblue;
+    border-style: dashed;
+    border-color: black;
+}
+h2 {
+    color: burlywood;
+    font-size: medium;
+    border-style: double;
+    border-color: black;
+}
+section a {
+    color: red;
+}
